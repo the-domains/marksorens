@@ -1,0 +1,28 @@
+name: marksorens
+favicon: null
+layout_spectrum: 0.5349392192438245
+typography_spectrum: 0.7681883226614445
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.978356423554942
+  lightness: 0.5631292143370956
+  saturation: 0.2670601981226355
+  rhythmicContrast: 0.13209069636650383
+purpose: []
