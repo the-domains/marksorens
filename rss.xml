@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Businessing Daily]]></title>
         <description><![CDATA[Businessing Daily]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marksorens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 00:02:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 00:42:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marksorens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8966d22d-8eea-4a8c-87f1-ef6981b6203d.gif">]]></description>
+            <link>https://thegrid.ai/marksorens/73b8a817-ca84-490e-afec-132c26e20385/index.html</link>
+            <guid isPermaLink="false">73b8a817-ca84-490e-afec-132c26e20385</guid>
+            <pubDate>Wed, 10 Feb 2016 00:42:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b587e51d-e8b7-4ec2-8e84-e3dc6fa8a152.jpg">]]></description>
-            <link>undefined58a48022-3b7c-4815-9de5-8d19ec02e5f1/index.html</link>
+            <link>https://thegrid.ai/marksorens/58a48022-3b7c-4815-9de5-8d19ec02e5f1/index.html</link>
             <guid isPermaLink="false">58a48022-3b7c-4815-9de5-8d19ec02e5f1</guid>
             <pubDate>Wed, 10 Feb 2016 00:00:07 GMT</pubDate>
         </item>
