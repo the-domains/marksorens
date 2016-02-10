@@ -1,6 +1,6 @@
 name: marksorens
 favicon: null
-layout_spectrum: 0.24767
+layout_spectrum: 0.4951
 typography_spectrum: 0.39643
 title: Businessing Daily
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5631292143370956
   saturation: 0.2670601981226355
-  rhythmicContrast: 0.13209069636650383
+  rhythmicContrast: 0.25
 purpose: []
